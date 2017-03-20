@@ -1,8 +1,8 @@
 {
-    "name": "scott.videoskin",
-    "displayName": "Scotts Skin",
+    "name": "scottvideoskin",
+    "displayName": "ScottsSkin",
     "version": "1.0.0",
-    "description": "Scotts Better Emby skin.",
+    "description": "Scotts",
     "plugin": "plugin.js",
     "homepage": "https://github.com/Scott310/emby-web-defaultskin",
     "thumb": "",
